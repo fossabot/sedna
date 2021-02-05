@@ -3,6 +3,7 @@ English | [简体中文](./README_zh.md)
 [![CI](https://github.com/kubeedge/sedna/workflows/CI/badge.svg?branch=main)](https://github.com/kubeedge/sedna/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kubeedge/sedna)](https://goreportcard.com/report/github.com/kubeedge/sedna)
 [![LICENSE](https://img.shields.io/github/license/kubeedge/sedna.svg?style=flat-square)](/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fllhuii%2Fsedna.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fllhuii%2Fsedna?ref=badge_shield)
 
 ## What is Sedna?
 
@@ -110,3 +111,6 @@ If you're interested in being a contributor and want to get involved in developi
 
 Sedna is under the Apache 2.0 license. See the [LICENSE](LICENSE) file for details.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fllhuii%2Fsedna.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fllhuii%2Fsedna?ref=badge_large)
